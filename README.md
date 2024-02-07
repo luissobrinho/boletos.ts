@@ -1,10 +1,10 @@
-# gerar-boletos
+# boletos.ts
 
 #### NPM badges
 <!-- [START badges] -->
-[![NPM gerar-boletos package](https://img.shields.io/npm/v/gerar-boletos.svg)](https://npmjs.org/package/gerar-boletos)
-[![npm downloads](https://img.shields.io/npm/dm/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=gerar-boletos&from=2017-01-1)
-[![npm downloads](https://img.shields.io/npm/dt/gerar-boletos.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=gerar-boletos&from=2017-01-1)
+[![NPM boletos.ts package](https://img.shields.io/npm/v/boletos.ts.svg)](https://npmjs.org/package/boletos.ts)
+[![npm downloads](https://img.shields.io/npm/dm/boletos.ts.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=boletos.ts&from=2017-01-1)
+[![npm downloads](https://img.shields.io/npm/dt/boletos.ts.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=boletos.ts&from=2017-01-1)
 <!-- [END badges] -->
 
 Biblioteca em Node.js para geração de boletos utilizando PDFKit 
@@ -22,10 +22,10 @@ Geração de boletos para bancos:
 ### Install
 
 ```javascript
-npm i gerar-boletos
+npm i boletos.ts
 ```
 ```javascript
-yarn add gerar-boletos
+yarn add boletos.ts
 ```
 ### Exemplos de uso
 
