@@ -213,6 +213,8 @@ declare module 'boletos.ts' {
     especieDocumento: string;
     valor: number;
     datas: DatasInterface;
+    emv?: string
+    imagemQrCode?: string;
   }
 
   interface Boleto {

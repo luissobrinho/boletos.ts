@@ -1,6 +1,6 @@
 {
   "name": "boletos.ts",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "Gerar boletos para vários bancos",
   "main": "lib/index.js",
   "directories": {
@@ -46,6 +46,7 @@
   "dependencies": {
     "base64-stream": "^1.0.0",
     "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
     "pdfkit": "0.10.0",
     "qrcode": "^1.5.3"
   },
